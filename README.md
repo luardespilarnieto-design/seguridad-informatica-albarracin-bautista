@@ -3,7 +3,7 @@ Trabajo práctico de Seguridad Informática
 # 🔐 Seguridad Informática
 
 **Alumno:** Bautista Albarracín  
-**Materia:** Técnicas y Lenguajes de Programación  
+**Materia:** desarrollo de soluciones informatica 
 **Trabajo práctico:** Investigadores de la seguridad digital
 
 ---
